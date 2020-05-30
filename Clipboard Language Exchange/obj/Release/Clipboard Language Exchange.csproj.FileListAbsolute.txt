@@ -1,0 +1,18 @@
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\bin\Release\Clipboard Language Exchange.exe
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\bin\Release\Clipboard Language Exchange.pdb
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Release\Clipboard_Language_Exchange.Form1.resources
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Release\Clipboard_Language_Exchange.Properties.Resources.resources
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.csproj.GenerateResource.Cache
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.exe
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.pdb
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.csprojResolveAssemblyReference.cache
+D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Release\Clipboard_Language_Exchange.Form2.resources
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\bin\Release\Clipboard Language Exchange.exe
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\bin\Release\Clipboard Language Exchange.pdb
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.csprojAssemblyReference.cache
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\obj\Release\Clipboard_Language_Exchange.Form1.resources
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\obj\Release\Clipboard_Language_Exchange.Form2.resources
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\obj\Release\Clipboard_Language_Exchange.Properties.Resources.resources
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.csproj.GenerateResource.cache
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.exe
+D:\Movaghari\Source\C#\ClipboardLanguageExchange\Clipboard Language Exchange\obj\Release\Clipboard Language Exchange.pdb
