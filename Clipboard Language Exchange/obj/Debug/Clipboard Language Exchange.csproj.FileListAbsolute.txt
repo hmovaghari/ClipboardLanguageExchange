@@ -1,8 +1,0 @@
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Debug\Clipboard Language Exchange.csprojResolveAssemblyReference.cache
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Debug\Clipboard_Language_Exchange.Form1.resources
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Debug\Clipboard_Language_Exchange.Properties.Resources.resources
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Debug\Clipboard Language Exchange.csproj.GenerateResource.Cache
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\bin\Debug\Clipboard Language Exchange.exe
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\bin\Debug\Clipboard Language Exchange.pdb
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Debug\Clipboard Language Exchange.exe
-D:\Users\Documents\Visual Studio 2013\Projects\Clipboard Language Exchange\Clipboard Language Exchange\obj\Debug\Clipboard Language Exchange.pdb
